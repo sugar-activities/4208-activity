@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 55 55"
+   height="55px"
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 55 55"
+   width="55px"
+   x="0px"
+   xml:space="preserve"
+   y="0px"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="datamanager-activity.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
+     id="metadata2512"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs2510"><inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 27.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="55 : 27.5 : 1"
+       inkscape:persp3d-origin="27.5 : 18.333333 : 1"
+       id="perspective2514" /></defs><sodipodi:namedview
+     inkscape:window-height="726"
+     inkscape:window-width="675"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="8.9818182"
+     inkscape:cx="33.537165"
+     inkscape:cy="28.438648"
+     inkscape:window-x="50"
+     inkscape:window-y="25"
+     inkscape:current-layer="Layer_1" /><g
+     display="block"
+     id="activity-journal"
+     transform="translate(0,-0.3340081)"
+     style="display:block">
+	<path
+   d="M 45.866,44.669 C 45.866,47.18 44.338,49 41.534,49 L 12.077,49 L 12.077,6 L 41.535,6 C 43.685,6 45.867,8.154 45.867,10.33 L 45.866,44.669 L 45.866,44.669 z"
+   id="path2499"
+   style="fill:#ffffff;stroke:#666666;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round" />
+
+		<line
+   x1="21.341"
+   x2="21.341"
+   y1="6.1209998"
+   y2="48.881001"
+   id="line2501"
+   style="fill:none;stroke:#666666;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round" />
+	<path
+   d="M 7.384,14.464 C 7.384,14.464 9.468,15.159 11.554,15.159 C 13.64,15.159 15.727,14.464 15.727,14.464"
+   id="path2503"
+   style="fill:none;stroke:#666666;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round" />
+	<path
+   d="M 7.384,28.021 C 7.384,28.021 9.296,28.716 11.729,28.716 C 14.162,28.716 15.728,28.021 15.728,28.021"
+   id="path2505"
+   style="fill:none;stroke:#666666;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round" />
+	<path
+   d="M 7.384,41.232 C 7.384,41.232 9.12,41.927 11.902,41.927 C 14.683,41.927 15.727,41.232 15.727,41.232"
+   id="path2507"
+   style="fill:none;stroke:#666666;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round" />
+</g><text
+     xml:space="preserve"
+     style="font-size:27.24328423px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+     x="17.794456"
+     y="29.26009"
+     id="text2520"
+     transform="scale(1.168039,0.8561358)"><tspan
+       sodipodi:role="line"
+       id="tspan2522"
+       x="17.794456"
+       y="29.26009">D</tspan></text>
+<text
+     xml:space="preserve"
+     style="font-size:27.9397316px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     x="18.436687"
+     y="49.723141"
+     id="text2524"
+     transform="scale(1.0973076,0.9113215)"><tspan
+       sodipodi:role="line"
+       id="tspan2526"
+       x="18.436687"
+       y="49.723141">M</tspan></text>
+</svg>

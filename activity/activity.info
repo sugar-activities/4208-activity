@@ -1,0 +1,7 @@
+[Activity]
+name = DataManager
+service_name = org.olenepal.DataManager
+class = datamanager.DataManager
+icon = datamanager-activity
+activity_version = 2
+show_launcher = yes
